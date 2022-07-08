@@ -1,4 +1,4 @@
-@Author: [Aniket Kadam](https://github.com/Aniketkadam4380)
+@Author: [Shweta Gargade](https://github.com/aishweta)
 
 # PythonTutorials
 Python for Data Science and AI
